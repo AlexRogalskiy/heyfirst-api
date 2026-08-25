@@ -4,7 +4,7 @@ specifiers:
   '@fastify/cookie': 7.0.0
   '@fastify/cors': 8.0.0
   '@fastify/helmet': 9.1.0
-  '@prisma/client': 3.14.0
+  '@prisma/client': 3.15.2
   '@swc/cli': 0.1.57
   '@swc/core': 1.2.215
   '@types/node': 17.0.45
@@ -23,7 +23,7 @@ dependencies:
   '@fastify/cookie': 7.0.0
   '@fastify/cors': 8.0.0
   '@fastify/helmet': 9.1.0
-  '@prisma/client': 3.14.0_prisma@3.14.0
+  '@prisma/client': 3.15.2_prisma@3.14.0
   axios: 0.27.2
   badge-maker: 3.3.1
   dotenv: 16.0.1
@@ -129,8 +129,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@prisma/client/3.14.0_prisma@3.14.0:
-    resolution: {integrity: sha512-atb41UpgTR1MCst0VIbiHTMw8lmXnwUvE1KyUCAkq08+wJyjRE78Due+nSf+7uwqQn+fBFYVmoojtinhlLOSaA==}
+  /@prisma/client/3.15.2_prisma@3.14.0:
+    resolution: {integrity: sha512-ErqtwhX12ubPhU4d++30uFY/rPcyvjk+mdifaZO5SeM21zS3t4jQrscy8+6IyB0GIYshl5ldTq6JSBo1d63i8w==}
     engines: {node: '>=12.6'}
     requiresBuild: true
     peerDependencies:
@@ -139,12 +139,12 @@ packages:
       prisma:
         optional: true
     dependencies:
-      '@prisma/engines-version': 3.14.0-36.2b0c12756921c891fec4f68d9444e18c7d5d4a6a
+      '@prisma/engines-version': 3.15.1-1.461d6a05159055555eb7dfb337c9fb271cbd4d7e
       prisma: 3.14.0
     dev: false
 
-  /@prisma/engines-version/3.14.0-36.2b0c12756921c891fec4f68d9444e18c7d5d4a6a:
-    resolution: {integrity: sha512-D+yHzq4a2r2Rrd0ZOW/mTZbgDIkUkD8ofKgusEI1xPiZz60Daks+UM7Me2ty5FzH3p/TgyhBpRrfIHx+ha20RQ==}
+  /@prisma/engines-version/3.15.1-1.461d6a05159055555eb7dfb337c9fb271cbd4d7e:
+    resolution: {integrity: sha512-e3k2Vd606efd1ZYy2NQKkT4C/pn31nehyLhVug6To/q8JT8FpiMrDy7zmm3KLF0L98NOQQcutaVtAPhzKhzn9w==}
     dev: false
 
   /@prisma/engines/3.14.0-36.2b0c12756921c891fec4f68d9444e18c7d5d4a6a:
