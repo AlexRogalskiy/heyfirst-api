@@ -15,7 +15,7 @@ specifiers:
   nodemon: 2.0.22
   pino-pretty: ^8.1.0
   prisma: 3.14.0
-  ts-node: 10.9.1
+  ts-node: 10.9.2
   tsconfig-paths: 4.0.0
   typescript: 4.7.4
 
@@ -36,7 +36,7 @@ devDependencies:
   nodemon: 2.0.22
   pino-pretty: 8.1.0
   prisma: 3.14.0
-  ts-node: 10.9.1_ib3brd7whbpaqo6rbogjgh3mke
+  ts-node: 10.9.2_ib3brd7whbpaqo6rbogjgh3mke
   tsconfig-paths: 4.0.0
   typescript: 4.7.4
 
@@ -1178,8 +1178,8 @@ packages:
       nopt: 1.0.10
     dev: true
 
-  /ts-node/10.9.1_ib3brd7whbpaqo6rbogjgh3mke:
-    resolution: {integrity: sha512-NtVysVPkxxrwFGUUxGYhfux8k78pQB3JqYBXlLRZgdGUqTO5wU/UyHop5p70iEbGhB7q5KmiZiU0Y3KlJrScEw==}
+  /ts-node/10.9.2_ib3brd7whbpaqo6rbogjgh3mke:
+    resolution: {integrity: sha512-f0FFpIdcHgn8zcPSbf1dRevwt047YMnaiJM3u2w2RewrB+fob/zePZcrOyQoLMMO7aBIddLcQIEK5dYjkLnGrQ==}
     hasBin: true
     peerDependencies:
       '@swc/core': '>=1.2.50'
